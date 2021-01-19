@@ -12,6 +12,7 @@ CREATE TABLE tb_categoria (
 	
     primary key (id) 
 );
+
 INSERT INTO tb_categoria (tamanho, salgada, formato, combo_refri, promocao) 
 VALUES ("Brotinho", true, "Al Taglio", false, false);
 INSERT INTO tb_categoria (tamanho, salgada, formato, combo_refri, promocao) 
