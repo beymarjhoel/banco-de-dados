@@ -47,7 +47,7 @@ VALUES ("Construção de algoritmos", 2, "8:00:00", "10:00:00", 6, 50.00, 1);
 INSERT INTO tb_curso (nome_aula, duracao_aula_horas, inicio_aula_horas, termina_aula_horas, quantidade_atividade, preco, id_categoria)
 VALUES ("Laços condicionais", 3, "15:00:00", "18:00:00", 4, 55.00, 1);
 INSERT INTO tb_curso (nome_aula, duracao_aula_horas, inicio_aula_horas, termina_aula_horas, quantidade_atividade, preco, id_categoria)
-VALUES ("Introducação a Java", 5, "14:00:00", "19:00:00", 8, 65.00, 2);
+VALUES ("Introdução a Java", 5, "14:00:00", "19:00:00", 8, 65.00, 2);
 INSERT INTO tb_curso (nome_aula, duracao_aula_horas, inicio_aula_horas, termina_aula_horas, quantidade_atividade, preco, id_categoria)
 VALUES ("Introdução a MySQL", 1, "22:00:00", "23:00:00", 10, 80.00, 3);
 INSERT INTO tb_curso (nome_aula, duracao_aula_horas, inicio_aula_horas, termina_aula_horas, quantidade_atividade, preco, id_categoria)
